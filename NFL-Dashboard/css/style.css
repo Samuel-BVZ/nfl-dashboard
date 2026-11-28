@@ -1,3 +1,9 @@
+main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
 body {
     background-color: #f4f6f8;
     margin: 0;
@@ -32,6 +38,10 @@ nav a {
 
 nav a:hover {
     color: #C60C30;
+}
+
+.welcome {
+    margin-bottom: 20px;
 }
 
 .featured-team {
