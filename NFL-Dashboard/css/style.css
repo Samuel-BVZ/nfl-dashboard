@@ -33,3 +33,12 @@ nav a {
 nav a:hover {
     color: #C60C30;
 }
+
+.featured-team {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
