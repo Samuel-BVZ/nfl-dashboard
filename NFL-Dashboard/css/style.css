@@ -4,6 +4,9 @@ body {
 }
 
 header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     padding: 20px;
     background-color: #00338D;
     color: white;
@@ -17,10 +20,14 @@ p {
     font-size: 18px;
 }
 
+nav {
+    display: flex;
+    gap: 20px;
+}
+
 nav a {
     color: white;
     text-decoration: none;
-    margin-right: 15px;
 }
 
 nav a:hover {
